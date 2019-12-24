@@ -1,0 +1,33 @@
+body {
+	background: #ccc;
+}
+.top-block {
+	display: flex;
+	justify-content: center;
+	background: #000;
+}
+.nav-link {
+	display: flex;
+	justify-content: center;
+	background: #fff;
+	margin: 10px;
+	color: #000;
+	border: 2px solid #000;
+	border-radius: 10px; 
+}
+.nav-link:hover {
+	margin: 10px;
+	color: #000;
+	border: 2px solid #000;
+	background: #fff; 
+}
+.nav-link:hover {
+	color: #909090;
+}
+.navbar-search {
+	display: flex;
+	justify-content: flex-end;
+}
+.btn {
+	background: #fff;
+}
